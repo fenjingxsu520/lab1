@@ -1,0 +1,13 @@
+Script started on 2015年03月17日 (週二) 10時44分34秒
+]0;F74036433@2015cpp: ~F74036433@2015cpp:~$ whoami; pwd
+F74036433
+/home/F74036433
+]0;F74036433@2015cpp: ~F74036433@2015cpp:~$ git config -l
+user.name=fenjingxsu520
+user.email=f74036433@mail.ncku.edu.tw
+]0;F74036433@2015cpp: ~F74036433@2015cpp:~$ git clone https://github.com/fenjingxsu520/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036433@2015cpp: ~F74036433@2015cpp:~$ exit
+
+Script done on 2015年03月17日 (週二) 10時45分24秒
